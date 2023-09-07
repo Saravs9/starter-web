@@ -17,3 +17,6 @@ deploy
 ## How to contribute
 
 try
+showing differences
+differences between staging area and repository
+last mod
